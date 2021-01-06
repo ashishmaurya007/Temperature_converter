@@ -1,2 +1,4 @@
 # Temperature_converter
-just a basic UI developed in JAVAfx. I am just learning this UI so please don't judge me.
+need all the files to run this project 
+1. main.java
+2. 
